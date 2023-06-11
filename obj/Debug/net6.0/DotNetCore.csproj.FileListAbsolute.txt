@@ -30,3 +30,5 @@ C:\Users\YeangKimHong\Desktop\ASP.NET\DotNetCore\DotNetCore\obj\Debug\net6.0\ref
 C:\Users\YeangKimHong\Desktop\ASP.NET\DotNetCore\DotNetCore\obj\Debug\net6.0\DotNetCore.pdb
 C:\Users\YeangKimHong\Desktop\ASP.NET\DotNetCore\DotNetCore\obj\Debug\net6.0\DotNetCore.genruntimeconfig.cache
 C:\Users\YeangKimHong\Desktop\ASP.NET\DotNetCore\DotNetCore\obj\Debug\net6.0\ref\DotNetCore.dll
+C:\Users\YeangKimHong\Desktop\ASP.NET\DotNetCore\DotNetCore\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\YeangKimHong\Desktop\ASP.NET\DotNetCore\DotNetCore\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
