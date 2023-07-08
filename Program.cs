@@ -1,5 +1,6 @@
 using DotNetCore.Data;
 using DotNetCore.Services.CategoryServices;
+using DotNetCore.Services.ProductService;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 
@@ -19,6 +20,7 @@ builder.Services.AddDbContext<DataContext>(option =>
 });
 
 builder.Services.AddScoped<ICategoryService, CategoryService>();
+builder.Services.AddScoped<IProductService, ProductService>();
 
 var app = builder.Build();
 

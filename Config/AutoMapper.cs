@@ -10,6 +10,8 @@ namespace DotNetCore.Config
         {
             CreateMap<Category, GetCategoryDto>().ReverseMap();
             CreateMap<Category, AddCategoryDto>().ReverseMap();
+            CreateMap<Product, GetProductDto>().ReverseMap();
+            CreateMap<Product, AddProductDto>().ReverseMap();
         }
     }
 }
